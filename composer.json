@@ -1,9 +1,9 @@
 {
-	"name"       : "rarst/laps",
+	"name"       : "karaliunas/laps",
 	"description": "Light WordPress profiler.",
 	"keywords"   : ["wordpress", "performance"],
 	"type"       : "wordpress-plugin",
-	"homepage"   : "https://github.com/Rarst/laps",
+	"homepage"   : "https://github.com/karaliunas/laps",
 	"license"    : "MIT",
 	"authors"    : [
 		{
